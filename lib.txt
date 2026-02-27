@@ -1,0 +1,20 @@
+pip install google.generativeai
+
+pip install pyttsx3
+
+pip install pyaudio
+
+pip install openai
+
+pip install setuptools
+
+pip install Speechrecognition
+
+pip install  pygame
+
+import gemini_api_key and Openai_api_key tO environment variables and cerate new variables 
+
+Like GOOGLE_API_KEY and another OPENAI_API_KEY
+
+Then paste the apikey respectively
+
